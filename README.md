@@ -7,7 +7,7 @@ A company website that optimized for search engines with accessibility standards
 
 ## User Story
 
-As A marketing agency,
+As A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines.
 
