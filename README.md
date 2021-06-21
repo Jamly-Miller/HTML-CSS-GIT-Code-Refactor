@@ -78,6 +78,8 @@ Switching my logic from a complately different background is a very hard task, b
 
 ## Finished Product
 
+GitHub Page: https://jamly-miller.github.io/HTML-CSS-GIT-Code-Refactor/
+
 ![ScreenShot](./assets/images/html-css-git-demo.png)
 
 
@@ -85,7 +87,7 @@ Switching my logic from a complately different background is a very hard task, b
 
 If you have any further questions, please contact me:
 
-GitHub:https://github.com/Jamly-Miller
+GitHub: https://github.com/Jamly-Miller
 
 LinkedIn: https://www.linkedin.com/in/jamly-miller-125307200/
 
