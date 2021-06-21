@@ -78,7 +78,7 @@ Switching my logic from a complately different background is a very hard task, b
 
 ## Finished Product
 
-![ScreenShot](./Assets/html-css-git-demo.png)
+![ScreenShot](./assets/images/html-css-git-demo.png)
 
 
 ## Questions
